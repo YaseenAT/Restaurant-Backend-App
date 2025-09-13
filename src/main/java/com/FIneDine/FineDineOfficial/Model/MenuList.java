@@ -108,6 +108,7 @@ public class MenuList {
 
     @Lob
     private byte[] imageData;
+    //for Byte Array
 
 
 
